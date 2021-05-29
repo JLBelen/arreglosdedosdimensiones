@@ -1,0 +1,7 @@
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\obj\Debug\arreglosdedosdimensiones.csprojAssemblyReference.cache
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\obj\Debug\arreglosdedosdimensiones.csproj.CoreCompileInputs.cache
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\bin\Debug\arreglosdedosdimensiones.exe.config
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\bin\Debug\arreglosdedosdimensiones.exe
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\bin\Debug\arreglosdedosdimensiones.pdb
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\obj\Debug\arreglosdedosdimensiones.exe
+C:\Users\jean_\Desktop\arreglosdedosdimensiones\arreglosdedosdimensiones\obj\Debug\arreglosdedosdimensiones.pdb
